@@ -1,2 +1,2 @@
 # APIAutomation
-Automating the ALI using the Katalon tool
+Automating the API using the Katalon tool
